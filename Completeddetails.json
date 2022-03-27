@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "projectname":"PP2600 - Project name",
+        "schedule":"Baseline Schedule",
+        "type":"Line Design Engineering",
+        "duration":"08/10/2022 - 08/10/2022",
+        "percentage":"100.00%"
+    },
+    {
+        "id":2,
+        "projectname":"TD1330 - Project name",
+        "schedule":"TxDOT Permits Acquired",
+        "type":"Line Design Engineering",
+        "duration":"06/01/2020 - 06/01/2020",
+        "percentage":"100.00%"
+    },
+    {
+        "id":3,
+        "projectname":"PP2600 - Project name",
+        "schedule":"Easements, Permits, Licenses etc. Acquired",
+        "type":"Line Design Engineering",
+        "duration":"6/11/2020 - 06/11/2020",
+        "percentage":"100.00%"
+    },
+    {
+        "id":4,
+        "projectname":"PP1200 - Project name",
+        "schedule":"Baseline Schedule",
+        "type":"Line Design Engineering",
+        "duration":"08/10/2022 - 08/10/2022",
+        "percentage":"100.00%"
+    },
+    {
+        "id":3,
+        "projectname":"PP2600 - Project name",
+        "schedule":"Easements, Permits, Licenses etc. Acquired",
+        "type":"Line Design Engineering",
+        "duration":"6/11/2020 - 06/11/2020",
+        "percentage":"100.00%"
+    }
+]
